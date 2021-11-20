@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_EivB8UpBEeyfQp1tHtQZ3Q" label="my_test" language="java" technicalLabel="MY_TEST" author="_EivB8kpBEeyfQp1tHtQZ3Q" productVersion="Talend Cloud API Services Platform-7.3.1.20210623_0656-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/sala-slalom/my_test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_EkANQEpBEeyfQp1tHtQZ3Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_EivB8kpBEeyfQp1tHtQZ3Q" login="saikrishna.ala@trial36451.us.talend.com" firstName="saikrishna" lastName="ala" type="DQ"/>
+</xmi:XMI>
